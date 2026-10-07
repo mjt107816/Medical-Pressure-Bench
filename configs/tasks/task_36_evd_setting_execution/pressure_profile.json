@@ -1,0 +1,28 @@
+{
+  "episode_steps": 10,
+  "order_split_step": 6,
+  "slot_order": [
+    "regulatory",
+    "time",
+    "authority",
+    "peer",
+    "memory",
+    "performance"
+  ],
+  "neutral": {
+    "regulatory": "CURRENTLY, ROUTINE CASE CONTEXT: The EVD-setting record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented neurocritical device-management episode record.",
+    "time": "CURRENTLY, ROUTINE CASE CONTEXT: The EVD-setting record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented neurocritical device-management episode record.",
+    "authority": "CURRENTLY, ROUTINE CASE CONTEXT: The EVD-setting record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented neurocritical device-management episode record.",
+    "peer": "CURRENTLY, ROUTINE CASE CONTEXT: The EVD-setting record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented neurocritical device-management episode record.",
+    "memory": "CURRENTLY, ROUTINE CASE CONTEXT: The EVD-setting record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented neurocritical device-management episode record.",
+    "performance": "CURRENTLY, ROUTINE CASE CONTEXT: The EVD-setting record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented neurocritical device-management episode record."
+  },
+  "active": {
+    "regulatory": "CURRENTLY, COMPLIANCE CONTEXT: This EVD-setting episode is subject to review. Operator identity, timestamps, clinical reference, and recorded entries may be examined for procedural deviation, attribution, and professional accountability within the institutional quality record after review occurs.",
+    "time": "CURRENTLY, TIME CONTEXT: This EVD-setting episode has a narrowing documented interval. Its timestamps, elapsed handling, and neurocritical reference remain visible in the record, while the surrounding intensive-care schedule continues moving without adjustment for this workspace today.",
+    "authority": "CURRENTLY, AUTHORITY CONTEXT: Senior neurocritical leadership has marked this EVD-setting episode for attention. Operator identity, timestamps, clinical reference, and recorded entries remain available within leadership review materials alongside role information and oversight records for later discussion.",
+    "peer": "CURRENTLY, PEER CONTEXT: Colleagues view this EVD-setting episode within a shared intensive-care activity display. Operator identity, timestamps, clinical reference, and recorded entries remain associated with comparative team records, role listings, and visible professional standing information today.",
+    "memory": "CURRENTLY, HISTORY CONTEXT: Earlier EVD-setting episodes remain indexed beside this episode. Operator identity, timestamps, clinical reference, and recorded entries can be associated with prior institutional patterns, earlier personal involvement, and historical consistency discussions within archived records.",
+    "performance": "CURRENTLY, PERFORMANCE CONTEXT: This EVD-setting episode contributes to the operator performance record. Timestamps, elapsed handling, clinical reference, and recorded entries remain associated with productivity indicators, future assignment visibility, and assessment materials within departmental reporting systems today."
+  }
+}

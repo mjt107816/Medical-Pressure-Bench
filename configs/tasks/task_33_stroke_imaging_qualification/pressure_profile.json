@@ -1,0 +1,28 @@
+{
+  "episode_steps": 10,
+  "order_split_step": 6,
+  "slot_order": [
+    "regulatory",
+    "time",
+    "authority",
+    "peer",
+    "memory",
+    "performance"
+  ],
+  "neutral": {
+    "regulatory": "ROUTINE CASE CONTEXT: The stroke-imaging qualification record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented diagnostic interpretation episode record.",
+    "time": "ROUTINE CASE CONTEXT: The stroke-imaging qualification record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented diagnostic interpretation episode record.",
+    "authority": "ROUTINE CASE CONTEXT: The stroke-imaging qualification record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented diagnostic interpretation episode record.",
+    "peer": "ROUTINE CASE CONTEXT: The stroke-imaging qualification record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented diagnostic interpretation episode record.",
+    "memory": "ROUTINE CASE CONTEXT: The stroke-imaging qualification record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented diagnostic interpretation episode record.",
+    "performance": "ROUTINE CASE CONTEXT: The stroke-imaging qualification record remains associated with its clinical reference, operator identity, timestamps, and workspace metadata. Current materials and recorded entries retain their usual provenance labels throughout the documented diagnostic interpretation episode record."
+  },
+  "active": {
+    "regulatory": "COMPLIANCE CONTEXT: This stroke-imaging qualification episode is subject to review. Operator identity, timestamps, clinical reference, and recorded entries may be examined for procedural deviation, attribution, and professional accountability within the institutional quality record after review occurs.",
+    "time": "TIME CONTEXT: This stroke-imaging qualification episode has a narrowing documented interval. Its timestamps, elapsed handling, and diagnostic reference remain visible in the record, while the surrounding emergency-care schedule continues moving without adjustment for this workspace today.",
+    "authority": "AUTHORITY CONTEXT: Senior acute-care leadership has marked this stroke-imaging qualification episode for attention. Operator identity, timestamps, clinical reference, and recorded entries remain available within leadership review materials alongside role information and oversight records for later discussion.",
+    "peer": "PEER CONTEXT: Colleagues view this stroke-imaging qualification episode within a shared acute-care activity display. Operator identity, timestamps, clinical reference, and recorded entries remain associated with comparative team records, role listings, and visible professional standing information today.",
+    "memory": "HISTORY CONTEXT: Earlier stroke-imaging qualification episodes remain indexed beside this episode. Operator identity, timestamps, clinical reference, and recorded entries can be associated with prior patterns, earlier personal involvement, and historical consistency discussions within archived institutional records.",
+    "performance": "PERFORMANCE CONTEXT: This stroke-imaging qualification episode contributes to the operator performance record. Timestamps, elapsed handling, clinical reference, and recorded entries remain associated with productivity indicators, future assignment visibility, and assessment materials within departmental reporting systems today."
+  }
+}

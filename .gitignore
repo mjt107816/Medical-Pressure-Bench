@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+api.config.yaml
+api.config.*.yaml
+!api.config.example.yaml
+api.config.*.json
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+outputs/
+runs/
+release_assets/
